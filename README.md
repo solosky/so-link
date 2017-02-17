@@ -3,7 +3,8 @@
 
 # 免责声明
 此项目所用的资源均收集于网络，仅供个人研究使用，不能作为商业用途，如有侵权，请联系我删除。
-资料来源：
+
+# 资料来源：
 1. https://www.brobwind.com/archives/1179
 pcb/2016_07_13_stlink_v2-1.png 
 pcb/2016_09_10_bro_dbg_link_v2.1_sch.png 
