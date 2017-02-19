@@ -5,7 +5,7 @@
 此项目所用的资源均收集于网络，仅供个人研究使用，禁止作为任何商业用途，如有侵权，请联系我删除。
 
 # 参考资料
-1) https://www.brobwind.com/archives/1179
+1) https://www.brobwind.com/archives/1094
 
  * pcb/2016_07_13_stlink_v2-1.png 
  * pcb/2016_09_10_bro_dbg_link_v2.1_sch.png 
